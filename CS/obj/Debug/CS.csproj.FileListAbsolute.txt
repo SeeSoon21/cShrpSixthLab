@@ -1,0 +1,7 @@
+X:\programm\C#\CS_6\CS\$(SolutionDir)Build\$(Platform)\$(Configuration)\CS.exe.config
+X:\programm\C#\CS_6\CS\$(SolutionDir)Build\$(Platform)\$(Configuration)\CS.exe
+X:\programm\C#\CS_6\CS\$(SolutionDir)Build\$(Platform)\$(Configuration)\CS.pdb
+X:\programm\C#\CS_6\CS\obj\Debug\CS.csprojAssemblyReference.cache
+X:\programm\C#\CS_6\CS\obj\Debug\CS.csproj.CoreCompileInputs.cache
+X:\programm\C#\CS_6\CS\obj\Debug\CS.exe
+X:\programm\C#\CS_6\CS\obj\Debug\CS.pdb
